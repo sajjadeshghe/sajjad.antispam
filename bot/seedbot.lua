@@ -338,16 +338,15 @@ will return group logs
 
 !banlist
 will return group ban list
-
-**U can use both "/" and "!" 
-
-
-*Only owner and mods can add bots in group
+** U می توانید استفاده از هر دو "/" و "!"
 
 
-*Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
+* فقط مالک و مدها می توانید رباتها در گروه اضافه
 
-*Only owner can use res,setowner,promote,demote and log commands
+
+* فقط مدیران و مالک می تواند ضربه ، ممنوعیت، ممنوعیت ، newlink ، لینک، setphoto ، setname ، قفل ، باز کردن، قوانین مجموعه، مجموعه ای در مورد استفاده از تنظیمات و دستورات
+
+* فقط مالک می تواند با وضوح استفاده کنید، setowner ، ترویج، تنزل رتبه و ورود دستورات
 
 ]]
 
